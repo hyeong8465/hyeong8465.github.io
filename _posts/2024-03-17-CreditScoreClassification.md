@@ -1,5 +1,5 @@
 ---
-title: "[Projects] 교통 피해정도 예측 프로젝트"
+title: "[Projects] Credit Score Classification"
 categories: [Projects]
 pin: false
 layout: post
