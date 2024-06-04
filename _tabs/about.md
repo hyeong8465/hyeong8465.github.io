@@ -26,5 +26,5 @@ toc: true
 - SQLD (2023)
 
 ## Language
-- TEPS 377 (2023)
+- TEPS 404 (2024)
 
